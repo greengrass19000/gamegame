@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="map.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2367" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="8" />
+			<Collapse line="12" />
+			<Collapse line="16" />
+			<Collapse line="20" />
+			<Collapse line="97" />
+			<Collapse line="110" />
+		</Folding>
+	</File>
+	<File name="SDL2.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="828" zoom_1="-1" zoom_2="-1">
+		<Cursor>
+			<Cursor1 position="22871" topLine="152" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="48" />
+			<Collapse line="55" />
+			<Collapse line="60" />
+			<Collapse line="94" />
+			<Collapse line="106" />
+			<Collapse line="109" />
+			<Collapse line="114" />
+			<Collapse line="128" />
+			<Collapse line="132" />
+			<Collapse line="201" />
+			<Collapse line="213" />
+			<Collapse line="228" />
+			<Collapse line="294" />
+			<Collapse line="327" />
+			<Collapse line="570" />
+		</Folding>
+	</File>
+	<File name="monster.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="765" topLine="27" />
+		</Cursor>
+		<Folding>
+			<Collapse line="75" />
+			<Collapse line="83" />
+		</Folding>
+	</File>
+	<File name="pacman.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2159" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="147" />
+			<Collapse line="167" />
+		</Folding>
+	</File>
+	<File name="GAME.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5794" topLine="174" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

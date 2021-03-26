@@ -1,0 +1,48 @@
+#ifdef PACMAN_H
+#define PACMAN_H
+#endif // PACMAN_H
+#include <SDL.h>
+#include <SDL_image.h>
+#include <stdio.h>
+#include <string>
+#include "pacman.h"
+#include "SDL2.h"
+
+//const int WALKING_ANIMATION_FRAMES = 4;
+//SDL_Rect gSpriteClips[ WALKING_ANIMATION_FRAMES ];
+//SDL_Rect Pacman[ 4 ][ 4 ];
+//class Pacman {
+//	gSpriteClips[ 0 ].x =  17;
+//	gSpriteClips[ 0 ].y =  17;
+//	gSpriteClips[ 0 ].w =  32;
+//	gSpriteClips[ 0 ].h =  32;
+//
+//	gSpriteClips[ 1 ].x =  67;
+//	gSpriteClips[ 1 ].y =  17;
+//	gSpriteClips[ 1 ].w =  32;
+//	gSpriteClips[ 1 ].h =  32;
+//
+//	gSpriteClips[ 2 ].x =  17;
+//	gSpriteClips[ 2 ].y =  17;
+//	gSpriteClips[ 2 ].w =  32;
+//	gSpriteClips[ 2 ].h =  32;
+//
+//	gSpriteClips[ 3 ].x = 117;
+//	gSpriteClips[ 3 ].y =  17;
+//	gSpriteClips[ 3 ].w =  32;
+//	gSpriteClips[ 3 ].h =  32;
+//};
+void Die() {
+	//play die.mp3
+	
+	//display eploding pacman
+	
+	//lose a live
+	
+}
+
+void Startup() {
+	//spawn in the ball shape
+	
+}
+
